@@ -4,27 +4,27 @@ menu-position: 4
 ## A Quick Guide to Skoddiemusick ##
 
 ### Conscious Separation* ###
-![Conscious Separation](/img/coverart/ConsciousSeparation.jpg "Conscious Separation")
+![Conscious Separation](/img/coverart/ConsciousSeparation.png "Conscious Separation")
 
 My return to music after a 6-year hiatus caused by a mental break. Focused on ambiguity, and designed to let the listener ascribe their own meaning to it.
 
 ### Biaxially-Oriented Polyethylene Terephthalate* ###
-![Biaxially-Oriented Polyethylene Terephthalate](/img/coverart/Biaxially-OrientedPolyethyleneTerephthalate.jpg "Biaxially-Oriented Polyethylene Terephthalate")
+![Biaxially-Oriented Polyethylene Terephthalate](/img/coverart/Biaxially-OrientedPolyethyleneTerephthalate.png "Biaxially-Oriented Polyethylene Terephthalate")
 
 A VHS Concept album that I began on my birthday in 2015. It grew out of my excitement towards Vaporwave combined with my fear of producing more conventional music.
 
 ### χmas Album* ###
-![χmas Album](/img/coverart/XmasAlbum.jpg "χmas Album")
+![χmas Album](/img/coverart/XmasAlbum.png "χmas Album")
 
 A "joke" album I created in less than an hour. It was created by manipulating samples of my least favorite christmas music, and I had hoped to capture the sense of isolation and despair that christmas often represents to me. As the years have gone by this album has gained popularity, and even I am surprised with the depth of the statement it makes.
 
 ### Katzenmusick ###
-![Katzenmusick](/img/coverart/Katzenmusick.jpg "Katzenmusick")
+![Katzenmusick](/img/coverart/Katzenmusick.png "Katzenmusick")
 
 This is a live album, and the fruits of my desire to perform a show on Twitch. The music was entirely improvised using piano, synthesizer, computer effects, and on one track I tried to sing.
 
 ### Generations ###
-![Generations](/img/coverart/Generations.jpg "Generations")
+![Generations](/img/coverart/Generations.png "Generations")
 
 The results of my experiments with Reaktor 6.0. Each track is a different *generative* patch, which means that once loaded they will continue to play themselves in a semi-random fashion. In theory each patch can perform itself indefinitely. For a time I had expected that this would be the first in a series of generative works made with Reaktor, however my style evolved more towards drone music and I didn't feel right putting the *generative* moniker on them.
 
