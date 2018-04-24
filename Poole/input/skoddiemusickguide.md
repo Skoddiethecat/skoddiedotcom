@@ -1,4 +1,5 @@
 title: A Quick Guide to Skoddiemusick
+menu-position: 4
 ---
 ## A Quick Guide to Skoddiemusick ##
 
