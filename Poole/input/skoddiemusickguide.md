@@ -64,4 +64,17 @@ A saxy lo-fi vaporwave split with ＮｕＲｅａｌｉｔｙ. This began life a
 
 My first release using my Eurorack modular synthesizer. I tried to create a patch which used everything that *could* be an oscillator as an oscillator. After some positive feedback from friends in a Facebook group, I decided to record and release it.
 
+### Sinebeat Equations ###
+![Sinebeat Equations](/img/coverart/sinebeatequations.png "sinebeatequations")
+
+This album is the result of my experiments in using ByteBeats to modulate sine waves. It covers four equations I was particularly fond of, and is presented at two sample rates. While the tracks sound similar at different sample rates, the carrier frequencies of the sine waves stay the same which creates interesting variations. The equations were also used to generate the cover art, not including the lettering. The actual data used for the cover is identical to the 48k presentation, just interpreted as 8-bit greyscale pixels instead of 8-bit audio samples. This album is fully open source.
+
 *\*These albums are stylistically linked, and were all produced with essentially the same technique of layering heavily manipulated samples of commercial music.*
+
+___
+
+All albums are avilable at [http://skoddie.bandcamp.com](http://skoddie.bandcamp.com) unless otherwise noted.
+
+Many (but not all) albums are availble on iTunes, Spotify, Amazon Music, etc. Simply search for "Skoddie".
+
+I also curate and contribute to challenge compilations for my Facebook group Electronic Music Philosophy on a six week cycle. These are available at [http://electronicmusicphilosophy.bandcamp.com](http://electronicmusicphilosophy.bandcamp.com).
