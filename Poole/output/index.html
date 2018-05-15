@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset={{ __encoding__ }}" />
-    <title>skoddiedotcom - {{ hx(page["title"]) }}</title>
-	<meta name="description" content="{{ hx(page.get("description", "a poole site")) }}" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>skoddiedotcom - welcome</title>
+	<meta name="description" content="a poole site" />
     <meta name="author" content="Skoddie" />
-    <meta name="keywords" content="{{ hx(page.get("keywords", "poole")) }}" />
+    <meta name="keywords" content="poole" />
     <link rel="stylesheet" type="text/css" href="/css/default.css" media="screen" />
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Inconsolata" />
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans" />
@@ -28,26 +28,29 @@
 		<div id="Mwrapper">
 			<div id="contentblock">
 				<header>
-					<h2>{{ hx(page["title"]) }}</h2>
+					<h2>welcome</h2>
 				</header>
-				{{ __content__ }}
+				<p>In Poole you write your pages in <a href="http://daringfireball.net/projects/markdown/">markdown</a>. It's easier to write
+markdown than HTML.</p>
+<p>Poole is made for simple websites you just want to get done, without installing
+a bunch of requirements and without learning a template engine.</p>
+<p>In a build, Poole copies every file from the <em>input</em> directory to the <em>output</em>
+directory. During that process every markdown file (ending with <em>md</em>, <em>mkd</em>,
+<em>mdown</em> or <em>markdown</em>) is converted to HTML using the project's <code>page.html</code>
+as a skeleton.<span class="cursor"></span></p>
 			</div>
 		</div>
 		<div id="Swrapper">
 
 			<nav>
-                <!--%
-                mpages = [p for p in pages if "menu-position" in p]
-                mpages.sort(key=lambda p: int(p["menu-position"]))
-                entry = '<div class="%s"><a href="%s">%s</a></div>'
-                for p in mpages:
-                    style = "current" if p["title"] == page["title"] else ""
-                    print(entry % (style, p["url"], hx(p["title"])))
-                %-->
+                <div class="current"><a href="/index.html">welcome</a></div>
+<div class=""><a href="/layout.html">layout</a></div>
+<div class=""><a href="/logic.html">logic</a></div>
+<div class=""><a href="/skoddiemusickguide.html">skoddiemusick</a></div>
 			</nav>
 		</div>
 		<footer>
-			Updated on {{ today() }}
+			Updated on May 14, 2018
 			&middot;
 			Built with <a href="http://bitbucket.org/obensonne/poole">Poole</a>
 			&middot;
