@@ -1,10 +1,6 @@
-
-title: home
+title: welcome
 menu-position: 0
 ---
-
-## Welcome to Poole
-
 In Poole you write your pages in [markdown][md]. It's easier to write
 markdown than HTML.
 
@@ -14,6 +10,6 @@ a bunch of requirements and without learning a template engine.
 In a build, Poole copies every file from the *input* directory to the *output*
 directory. During that process every markdown file (ending with *md*, *mkd*,
 *mdown* or *markdown*) is converted to HTML using the project's `page.html`
-as a skeleton.
+as a skeleton.{{ cursor() }}
 
 [md]: http://daringfireball.net/projects/markdown/
