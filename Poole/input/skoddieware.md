@@ -1,9 +1,6 @@
-title: home
+title: skoddieware
 menu-position: 4
 ---
-Welcome to skoddie(dot)com, a central location for all things skoddie
+Information related to various software projects
 
-* [skoddiemusick](/skoddiemusickguide.html)
-* [skooddieware](/skoddieware.html)
-
-{{ cursor() }}
+* [sinebeat equations](/skoddieware/sinebeatequations.html){{ cursor() }}
