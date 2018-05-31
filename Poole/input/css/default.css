@@ -178,6 +178,7 @@ code {
 
 #contentblock {	
 	padding: 0 10px 0 15px;
+    text-transform: lowercase;
 }
 
 #Swrapper {
