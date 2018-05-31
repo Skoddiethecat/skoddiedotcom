@@ -1,15 +1,9 @@
-title: welcome
+title: home
 menu-position: 0
 ---
-In Poole you write your pages in [markdown][md]. It's easier to write
-markdown than HTML.
+Welcome to skoddie(dot)com, a central location for all things skoddie
 
-Poole is made for simple websites you just want to get done, without installing
-a bunch of requirements and without learning a template engine.
+* [skoddiemusick](/skoddiemusickguide.html)
+* [skooddieware](/skoddieware.html)
 
-In a build, Poole copies every file from the *input* directory to the *output*
-directory. During that process every markdown file (ending with *md*, *mkd*,
-*mdown* or *markdown*) is converted to HTML using the project's `page.html`
-as a skeleton.{{ cursor() }}
-
-[md]: http://daringfireball.net/projects/markdown/
+{{ cursor() }}
