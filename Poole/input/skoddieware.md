@@ -1,6 +1,6 @@
 title: skoddieware
 menu-position: 4
 ---
-Information related to various software projects
+A collection of my humble programming projects.
 
 * [sinebeat equations](/skoddieware/sinebeatequations.html){{ cursor() }}
