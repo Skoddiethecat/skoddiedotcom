@@ -126,7 +126,7 @@ I also curate and contribute to challenge compilations for my Facebook group Ele
             ![Sinebeat Equations](/img/coverart/sinebeatequations.png "Sinebeat Equations")
         </td>
         <td>
-            This album is the result of my experiments in using ByteBeats to modulate sine waves. It covers four equations I was particularly fond of, and is presented at two sample rates. While the tracks sound similar at different sample rates, the carrier frequencies of the sine waves stay the same which creates interesting variations. The equations were also used to generate the cover art, not including the lettering. The actual data used for the cover is identical to the 48k presentation, just interpreted as 8-bit greyscale pixels instead of 8-bit audio samples. This album is fully open source.
+            This album is the result of my experiments in using ByteBeats to modulate sine waves. It covers four equations I was particularly fond of, and is presented at two sample rates. While the tracks sound similar at different sample rates, the carrier frequencies of the sine waves stay the same which creates interesting variations. The equations were also used to generate the cover art, not including the lettering. The actual data used for the cover is identical to the 48k presentation, just interpreted as 8-bit greyscale pixels instead of 8-bit audio samples. This album is fully [open source](/skoddieware/sinebeatequations.html).
         </td>
     </tr>
 </table>
