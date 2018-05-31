@@ -72,6 +72,12 @@ header {
 }
 
 img{
+    width:600px;
+    max-width:30%;
+	height: auto;
+}
+
+.skoddiemusickguide.img{
     width:300px;
     max-width:30%;
 	height: auto;
