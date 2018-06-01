@@ -18,8 +18,6 @@ An interesting aside: while working on Sinebeat Equations I began to wonder abou
 
 ___
 ###Downloads###
-* [Generic Sinebeat Equations Implementation in C](/sinebeatequations/sinebeat.c)
-* [Sinebeat Equations Album Source Code](/sinebeatequations/sinebeatequations.c)
-* [MIRROR of Viznut's collection of bytebeats](/sinebeatequations/music_formula_collection.txt)
-
-{{ cursor() }}
+* [Generic Sinebeat Equations Implementation in C](/skoddieware/sinebeatequations/sinebeat.c)
+* [Sinebeat Equations Album Source Code](/skoddieware/sinebeatequations/sinebeatequations.c)
+* [MIRROR of Viznut's collection of bytebeats](/skoddieware/sinebeatequations/music_formula_collection.txt){{ cursor() }}

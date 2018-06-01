@@ -3,17 +3,15 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset={{ __encoding__ }}" />
     <title>skoddie(dot)com - {{ hx(page["title"]) }}</title>
-	<meta name="description" content="{{ hx(page.get("description")) }}" />
+	<meta name="description" content="{{ hx(page.get("description", "collected ramblings")) }}" />
     <meta name="author" content="Skoddie" />
-    <meta name="keywords" content="{{ hx(page.get("keywords", "poole")) }}" />
+    <meta name="keywords" content="{{ hx(page.get("keywords", "skoddie(dot)com")) }}" />
     
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="/css/default.css" media="screen" />
     
     <!-- FONTS -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Inconsolata" />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans" />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700" />
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93371304-1"></script>
@@ -49,6 +47,7 @@
                     style = "current" if p["title"] == page["title"] else ""
                     print(entry % (style, p["url"], hx(p["title"])))
                 %-->
+			<a target="_blank" title="follow me on facebook" href="http://www.facebook.com/skoddienoise">facebook</a>
 			</nav>
 		</div>
 		<footer>
