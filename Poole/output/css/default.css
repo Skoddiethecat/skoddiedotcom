@@ -71,50 +71,65 @@ header {
 	padding-bottom: 0.5em;
 }
 
+p {
+  margin-top: 0em;
+  margin-bottom: 1.1em;
+}
+
 img{
-    width:300px;
+    width:600px;
     max-width:30%;
 	height: auto;
 }
 
+.skoddiemusickguide img{
+    width:300px;
+    max-width:100%;
+	height: auto;
+}
+
+/*.skoddiemusickguide table, th, td{
+	border: 1px solid black;
+}*/
+
 h1 {
   font-size: 2.8em;
-  font-family:'Inconsolata', sans-serif;
+  font-family:'Inconsolata', monospace;
   font-weight: 700;
   color: #6c71c4;
 }
 
 h2 {
   font-size: 2.4em;
-  font-family:'Inconsolata', sans-serif;
+  font-family:'Inconsolata', monospace;
   font-weight: 700;
   color: #859900;
 }
 
 h3 {
   font-size: 1.8em;
-  font-family:'Inconsolata', sans-serif;
+  font-family:'Inconsolata', monospace;
   font-weight: 700;
   color: #cb4b16;
 }
 
 h4 {
   font-size: 1.4em;
-  font-family:'Inconsolata', sans-serif;
+  font-family:'Inconsolata', monospace;
   font-weight: 700;
   color: #859900;
 }
 
 h5 {
   font-size: 1.3em;
-  font-family:'Inconsolata', sans-serif;
+  font-family:'Inconsolata', monospace;
   font-weight: 700;
   color: #859900;
 }
 
 h6 {
   font-size: 1.15em;
-  font-family:'Inconsolata', sans-serif;
+  font-family:'Inconsolata', monospace;
   font-weight: 700;
   color: #859900;
 }
@@ -142,6 +157,7 @@ footer {
 	width: 100%;
 	text-align: right;
 	padding-top: 15px;
+	text-transform: lowercase;
 }
 
 code {
@@ -153,7 +169,7 @@ code {
 }
 
 #Whole {
-	font-family: 'Inconsolata', sans-serif;
+	font-family: 'Inconsolata', monospace;
 	font-size: 14px;
 	width: 95%;
 	padding-top: 1%;
@@ -172,6 +188,7 @@ code {
 
 #contentblock {	
 	padding: 0 10px 0 15px;
+    text-transform: lowercase;
 }
 
 #Swrapper {
@@ -204,15 +221,15 @@ code {
 .cursor::after {
   content: "";
   position: absolute;
-  top: 0;
+  bottom: 2;
   right: -5px;
   /* Remove display: inline-block if not required to be on the same line as text etc */
   display: inline-block;
   background-color: #eee8d5;
-  vertical-align: top;
+  vertical-align: bottom;
   width: 5px;
   /* Set height to the line height of .text */
-  height: 13px;
+  height: 1em;
   /* 
   Animation paramaters:
   blink = animation-name, 
@@ -220,8 +237,8 @@ code {
   step-end = animation-timing-function,
   infinite = animation-iteration-count
   */
-  -webkit-animation: blink 1s step-end infinite;
-  animation: blink 1s step-end infinite;
+  -webkit-animation: blink 1.5s step-end infinite;
+  animation: blink 1.2s step-end infinite;
 }
 
 @-webkit-keyframes blink {
