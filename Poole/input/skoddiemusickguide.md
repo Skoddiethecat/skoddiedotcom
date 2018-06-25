@@ -13,7 +13,7 @@ ___
 <table>
     <tr>
         <td height="300" width="300">
-            <h3>Conscious Separation*</h3>
+            <h3>Conscious Separation* (June 2015)</h3>
 			<br />
             ![Conscious Separation](/img/coverart/ConsciousSeparation.png "Conscious Separation")
         </td>
@@ -23,7 +23,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>Biaxially-Oriented Polyethylene Terephthalate*</h3>
+            <h3>Biaxially-Oriented Polyethylene Terephthalate* (November 2015)</h3>
 			<br />
             ![Biaxially-Oriented Polyethylene Terephthalate](/img/coverart/Biaxially-OrientedPolyethyleneTerephthalate.png "Biaxially-Oriented Polyethylene Terephthalate")
         </td>
@@ -33,7 +33,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>χmas Album*</h3>
+            <h3>χmas Album* (December 2015)</h3>
 			<br />
             ![χmas Album](/img/coverart/XmasAlbum.png "χmas Album")
         </td>
@@ -43,7 +43,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>Katzenmusick</h3>
+            <h3>Katzenmusick (August 2016)</h3>
 			<br />
             ![Katzenmusick](/img/coverart/Katzenmusick.png "Katzenmusick")
         </td>
@@ -53,7 +53,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>Generations</h3>
+            <h3>Generations (January 2017)</h3>
 			<br />
             ![Generations](/img/coverart/Generations.png "Generations")
         </td>
@@ -63,7 +63,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>協議離婚</h3>
+            <h3>協議離婚 (April 2017)</h3>
             <h4><em>(Kyogi Rikon)</em></h4>
 			<br />
             ![Kyogi Rikon](/img/coverart/KyogiRikon.png "協議離婚")
@@ -74,7 +74,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>On Saturday, After School</h3>
+            <h3>On Saturday, After School (May 2017)</h3>
 			<br />
             ![On Saturday, After School](/img/coverart/OnSaturdayAfterSchool.png "On Saturday, After School")
         </td>
@@ -84,7 +84,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>(Pi)ano Phase</h3>
+            <h3>(Pi)ano Phase (August 2017)</h3>
 			<br />
             ![(Pi)ano Phase](/img/coverart/PIanoPhase.png "(Pi)ano Phase")
         </td>
@@ -94,7 +94,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>Eight Twelve</h3>
+            <h3>Eight Twelve EP (October 2017)</h3>
 			<br />
             ![Eight Twelve](/img/coverart/EightTwelve.png "Eight Twelve")
         </td>
@@ -104,7 +104,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>{6c4e311a​-​bfb2​-​4da4​-​89d7​-​2ce49e566eaa}</h3>
+            <h3>{6c4e311a​-​bfb2​-​4da4​-​89d7​-​2ce49e566eaa} (December 2017)</h3>
 			<br />
             ![{6c4e311a​-​bfb2​-​4da4​-​89d7​-​2ce49e566eaa}](/img/coverart/{6c4e311a​-​bfb2​-​4da4​-​89d7​-​2ce49e566eaa}.png "{6c4e311a​-​bfb2​-​4da4​-​89d7​-​2ce49e566eaa}")
         </td>
@@ -114,7 +114,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>ベンディー・ｾｯｸｽ・ホゥイッスル</h3>
+            <h3>ベンディー・ｾｯｸｽ・ホゥイッスル (March 2018)</h3>
 			<br />
             ![Bendi Sekkusu Ho-uissuru](/img/coverart/BendiSekkusuHo-uissuru.png "ベンディー・ｾｯｸｽ・ホゥイッスル")
         </td>
@@ -124,7 +124,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>{bde69c8a​-​382e​-​4dc8​-​8a2d​-​2162faae4ffa}</h3>
+            <h3>{bde69c8a​-​382e​-​4dc8​-​8a2d​-​2162faae4ffa} (April 2018)</h3>
 			<br />
             ![{bde69c8a​-​382e​-​4dc8​-​8a2d​-​2162faae4ffa}](/img/coverart/{bde69c8a​-​382e​-​4dc8​-​8a2d​-​2162faae4ffa}.png "{bde69c8a​-​382e​-​4dc8​-​8a2d​-​2162faae4ffa}")
         </td>
@@ -134,7 +134,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>Sinebeat Equations</h3>
+            <h3>Sinebeat Equations (May 2018)</h3>
 			<br />
             ![Sinebeat Equations](/img/coverart/sinebeatequations.png "Sinebeat Equations")
         </td>
