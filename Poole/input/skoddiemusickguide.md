@@ -144,7 +144,7 @@ ___
     </tr>
      <tr>
         <td height="300" width="300">
-            <h3>Make Techno Queer Again: Vol. 1<br />(May 2018)</h3>
+            <h3>Make Techno Queer Again: Vol. 1<br />(August 2018)</h3>
 			<br />
             ![Make Techno Queer Again: Vol. 1](/img/coverart/maketechnoqueeragainvol1.png "Make Techno Queer Again: Vol. 1")
         </td>
@@ -154,7 +154,7 @@ ___
     </tr>
     <tr>
         <td height="300" width="300">
-            <h3>Technically Inaccurate<br />(May 2018)</h3>
+            <h3>Technically Inaccurate<br />(August 2018)</h3>
 			<br />
             ![Technically Inaccurate](/img/coverart/technicallyinaccurate.png "Technically Inaccurate")
         </td>
