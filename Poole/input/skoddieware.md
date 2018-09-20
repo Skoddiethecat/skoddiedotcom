@@ -1,5 +1,5 @@
 title: skoddieware
-menu-position: 4
+menu-position: 3
 ---
 A collection of my humble programming projects.
 
