@@ -1,7 +1,9 @@
 title: skoddiemusick
-menu-position: 2
+menu-position: 1
 ---
 All albums are avilable at [http://skoddie.bandcamp.com](http://skoddie.bandcamp.com) unless otherwise noted.
+
+Live sets are detailed at [SkoddieLive](/skoddielive.html) and are available at [http://skoddielive.bandcamp.com](http://skoddie.bandcamp.com).
 
 Many (but not all) albums are availble on iTunes, Spotify, Amazon Music, etc. Simply search for "Skoddie".
 
