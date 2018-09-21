@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>skoddie(dot)com - sinebeat equations</title>
+    <title>skoddie(dot)com - skoddielive</title>
 	
 	<!-- BEGIN FACEBOOK PREVIEW IMAGE METADATA -->
 	<meta property="og:image" content="/img/SkoddieLogo.jpg" />
@@ -58,23 +58,46 @@
 		<div id="Mwrapper">
 			<div id="contentblock">
 				<header>
-					<h2>sinebeat equations</h2>
+					<h2>skoddielive</h2>
 				</header>
-				<p>Sinebeat equations are the result of my interest in both <a href="https://learningmodular.com/glossary/tzfm/">thru-zero frequency modulation</a> and <a href="http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html">bytebeat equations</a>. The core idea is to modulate the phase index of a sine function using a bytebeat equation, rather than using a second sine function as you would in TZFM. In practice, I have found it to be pleasing to use the output of the sinebeat equation to modulate additional sine functions as this can generate interesting harmonics.</p>
-<p>I have implemented this as an offline C program which sends its output directly to stdout, which I then use to generate a raw file by piping the output to head. This is perhaps not the most ideal implementation, however my actual programming skills are somewhat limited; and above all else, this implementation is simple. I have included a link to the source code at the bottom of the page. Usage is described at length in the comments.</p>
+				<p>Recordings of live sets are available at <a href="http://skoddie.bandcamp.com">http://skoddielive.bandcamp.com</a> unless otherwise noted.</p>
+<p><br /></p>
 <hr />
-<p>I have also included a mirror of Viznut's 2011 collection of bytebeat equations. Most of the equations listed are compatible with my sinebeat program, however some of them are written for java, and may use java specific features.</p>
-<p>I first developed this technique for use in the sine wave challenge I ran in March and April of 2018 for my Facebook group Electronic Music Philosophy. This first experiment can be found on our album <a href="/Vol 7: Send Me a Sine">https://electronicmusicphilosophy.bandcamp.com/album/vol-7-send-me-a-sine</a>. Following this challenge, I used this technique to create the aptly-named album <a href="https://skoddie.bandcamp.com/album/sinebeat-equations">Sinebeat Equations</a>. While working on the album I found that the music sounded drastically different at 32k and 48k (for reference, Viznut was mostly working at 8k). Based on this, I decided to present all four equations at both sample rates so that listeners could share in my curiosity. I also used the same program to generate the album cover by adding a bmp header to the raw output rather than a wav header.</p>
-<p>I am currently in the process of creating a follow up to Sinebeat Equations which will follow a more standard album structure, and hopefully be running at 44.1k and 16-bits.</p>
-<hr />
-<p>An interesting aside: while working on Sinebeat Equations I began to wonder about whether or not the sine wave modulation was actually contributing much to the final sound. My initial experiments using Viznut's basic equations sounded fairly close to the standard implementation, which effectively modulates a ramp wave. It was concievable to me that rapidly modulating at audio rates, and intentionally generating a lot of aliasing artifaction, might end up shaping the final output so much that while the actual bytes are of different values, they would sound fairly close to the ear. I decided to test this by rendering the whole album without the sine function and....woah. The results in some cases broke down to nothing but aliasing noise, with almost none of the character of the original piece. This convinced me that this technique was interesting to be its own class of equations, and I'm looking forward to seeing if anybody else gets any use out of the concept.</p>
-<hr />
-<h3>Downloads</h3>
-<ul>
-<li><a href="/skoddieware/sinebeatequations/sinebeat.c">Generic Sinebeat Equations Implementation in C</a></li>
-<li><a href="/skoddieware/sinebeatequations/sinebeatequations.c">Sinebeat Equations Album Source Code</a></li>
-<li><a href="/skoddieware/sinebeatequations/music_formula_collection.txt">MIRROR of Viznut's collection of bytebeats</a><span class="cursor"></span></li>
-</ul>
+<p><br />
+<div class="skoddiemusickguide">
+<table>
+    <tr>
+        <td height="300" width="300">
+            <h3>Fem Synth Lab 1 Year Anniversary Showcase<br />@ Coaxial<br />(June 29th, 2018)</h3>
+            <br />
+            <img alt="Fem Synth Lab 1 Year Anniversary Showcase @ Coaxial - 2018.06.29" src="/img/skoddielive/2018​.​06​.​29.png" title="Fem Synth Lab 1 Year Anniversary Showcase @ Coaxial - 2018.06.29" />
+        </td>
+        <td height="300">
+            The gig where I made an on-the-spot decision to play techno, which ultimately changed the entire direction of my music. Graciously hosted by Fem Synth Lab.
+        </td">
+    </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Vayu Sound<br />(August 31st, 2018)</h3>
+            <br />
+            <img alt="Vayu Sound - 2018.08.31" src="/img/skoddielive/2018​.​08​.​31.png" title="Vayu Sound - 2018.08.31" />
+        </td>
+        <td height="300">
+            Loft gig for Vayu sound. LOUD TECHNO was had, and thoroughly enjoyed.
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Late Breakfast<br />@ Ham and Eggs<br />(September 9th, 2018)</h3>
+            <br />
+            <img alt="Late Breakfast @ Ham and Eggs - 2019.09.09" src="/img/skoddielive/2019​.​09​.​09.png" title="Late Breakfast @ Ham and Eggs - 2019.09.09" />
+        </td>
+        <td height="300" width="300">
+            An interesting set consisting of a single note played for 45 minutes. Strangely, this was a Sunday show in a DTLA tavern. Good venue, good crowd, good people, one note.<span class="cursor"></span>
+        </td>
+    </tr></p>
+<p></table>
+</div></p>
 			</div>
 		</div>
 		<div id="Swrapper">
@@ -82,7 +105,7 @@
 			<nav>
                 <div class=""><a href="/index.html">home</a></div>
 <div class=""><a href="/skoddiemusickguide.html">skoddiemusick</a></div>
-<div class=""><a href="/skoddielive.html">skoddielive</a></div>
+<div class="current"><a href="/skoddielive.html">skoddielive</a></div>
 <div class=""><a href="/skoddieware.html">skoddieware</a></div>
 			<div><a target="_blank" title="hear my music on bandcamp" href="https://skoddie.bandcamp.com">bandcamp</a></div>
             <div><a target="_blank" title="live recordings on bandcamp" href="https://skoddielive.bandcamp.com">bandcamp</a></div>
