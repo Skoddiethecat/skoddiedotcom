@@ -15,7 +15,7 @@ ___
             ![Late Breakfast @ Ham and Eggs - 2019.09.09](/img/skoddielive/2018.09.09.png "Late Breakfast @ Ham and Eggs - 2019.09.09")
         </td>
         <td height="300" width="300">
-            An interesting set consisting of a single note played for 45 minutes. Strangely, this was a Sunday show in a DTLA tavern. Good venue, good crowd, good people, one note.{{ cursor() }}
+            An interesting set consisting of a single note played for 45 minutes. Strangely, this was a Sunday show in a DTLA tavern. Good venue, good crowd, good people, one note.
         </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ ___
             ![Fem Synth Lab 1 Year Anniversary Showcase @ Coaxial - 2018.06.29](/img/skoddielive/2018.06.29.png "Fem Synth Lab 1 Year Anniversary Showcase @ Coaxial - 2018.06.29")
         </td>
         <td height="300">
-            The gig where I made an on-the-spot decision to play techno, which ultimately changed the entire direction of my music. Graciously hosted by Fem Synth Lab.
+            The gig where I made an on-the-spot decision to play techno, which ultimately changed the entire direction of my music. Graciously hosted by Fem Synth Lab.{{ cursor() }}
         </td">
     </tr>
 </table>
