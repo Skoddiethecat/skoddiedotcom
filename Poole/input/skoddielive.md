@@ -1,7 +1,7 @@
 title: skoddielive
 menu-position: 2
 ---
-Recordings of live sets are available at [http://skoddielive.bandcamp.com](http://skoddie.bandcamp.com) unless otherwise noted.
+Recordings of live sets are available at [http://skoddielive.bandcamp.com](http://skoddielive.bandcamp.com) unless otherwise noted.
 
 <br />
 ___
@@ -10,9 +10,29 @@ ___
 <table>
     <tr>
         <td height="300" width="300">
+            <h3>Queer Toast, Techno Brunch<br />@ Left Coast<br />(December 9th, 2018)</h3>
+			<br />
+            ![Queer Toast, Techno Brunch @ Left Coast - 2018.12.09](/img/skoddielive/2018.12.09.png "Queer Toast, Techno Brunch @ Left Coast - 2018.12.09")
+        </td>
+        <td height="300" width="300">
+            An online performance for the Left Coast Modular Synth Community, and the public debut of my General CV module. There were a few muck-ups during the set, but the overall effect is STRONG.
+        </td>
+    </tr>
+	<tr>
+        <td height="300" width="300">
+            <h3>FM+<br />@ Chewing Foil<br />(October 5th, 2018)</h3>
+			<br />
+            ![FM+ @ Chewing Foil - 2018.10.05](/img/skoddielive/2018.10.05.png "FM+ @ Chewing Foil - 2018.10.05")
+        </td>
+        <td height="300" width="300">
+            A loud set at one of my favorite parties, in an amazing gallery. THE FUTURE WILL NOT BE MALE DOMINATED!
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
             <h3>Late Breakfast<br />@ Ham and Eggs<br />(September 9th, 2018)</h3>
 			<br />
-            ![Late Breakfast @ Ham and Eggs - 2019.09.09](/img/skoddielive/2018.09.09.png "Late Breakfast @ Ham and Eggs - 2019.09.09")
+            ![Late Breakfast @ Ham and Eggs - 2018.09.09](/img/skoddielive/2018.09.09.png "Late Breakfast @ Ham and Eggs - 2018.09.09")
         </td>
         <td height="300" width="300">
             An interesting set consisting of a single note played for 45 minutes. Strangely, this was a Sunday show in a DTLA tavern. Good venue, good crowd, good people, one note.
