@@ -1,5 +1,5 @@
 title: skoddielive
-menu-position: 2
+menu-position: 3
 ---
 Recordings of live sets are available at [http://skoddielive.bandcamp.com](http://skoddielive.bandcamp.com) unless otherwise noted.
 

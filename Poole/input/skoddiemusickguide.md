@@ -1,5 +1,5 @@
 title: skoddiemusick
-menu-position: 1
+menu-position: 2
 ---
 All albums are avilable at [http://skoddie.bandcamp.com](http://skoddie.bandcamp.com) unless otherwise noted.
 
