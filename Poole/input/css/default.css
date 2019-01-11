@@ -48,6 +48,7 @@ table {
 
 ol, ul {
 	list-style: disc;
+    list-style-position: inside;
 }
 
 em, i {
