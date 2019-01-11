@@ -46,6 +46,10 @@ table {
 
 /*END RESET CODE*/
 
+ol, ul {
+	list-style: disc;
+}
+
 em, i {
   font-style: italic;
 }
