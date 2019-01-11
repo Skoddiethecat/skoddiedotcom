@@ -18,6 +18,8 @@ While the code is heavily stolen (and heavily refactored), the concept behind it
 * Perhaps most importantly, so far this is only a melody. How can we generate an entire track using Markov chains? How can we generate an entire album?
 * Is any of this truly possible? From what I understand about the MIDI format, getting note duration may be easier said than done.
 
+I think I'll probably do the initial implementation in Python even though it'll be slow....
+
 ### TempleOS
 
 I need to take a brief moment, for some reason, and talk about TempleOS. I recently watched a documentary on it (google it), and beyond being personally fascinated by the pathos behind it, I was very intrigued by the algorithmic music generation that Terry Davis created. I have no plans to dive into the actual code he used to generate it, but it sounds like he did some clever tricks with repeating phrases to give them a more 'musical' quality. In the words of Adam Neely and many others, repetition legitimizes. So, even with musical phrases that some describe as 'uncanny', they can still satisfy some degree of musicality by having an overarching structure that includes an amount of repetition. This leads me to believe that incorporating the same concepts with Markov chain generation of the actual phrases may end well. I think having a degree of randomness in the structure will be important as well. Listening to a few of Terry's 'hymns' they do seem to have the same AABB structure as one another, though this may have represented his personal preference.
@@ -41,6 +43,8 @@ These, of course, will be entirely optional, and I'm imagining them as being gen
 * Never faster than the primary melody
 * Maybe lower pitched than the melody, but not by no more than an octave and often less. Perhaps using regressive algorithms?
 * Quieter than the melody, perhaps by a randomly variable amount
+
+More development is absolutely needed here.
 
 #### Orchestration
 
