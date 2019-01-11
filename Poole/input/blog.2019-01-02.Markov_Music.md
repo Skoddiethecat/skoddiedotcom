@@ -1,6 +1,6 @@
 ## {{ page["post"] }}
 
-*Posted on <!--{ page["date"] }-->.*
+*Posted on <!--{ page["date"] }-->*
 
 I haven't seriously blogged in....I don't actually know how long, but the script I use to build this website supports blogging and I wanted to consolidate some of my personal notes, so why not make them public?
 
@@ -17,9 +17,8 @@ While the code is heavily stolen (and heavily refactored), the concept behind it
 * If we generate a measure at a time, how do we create harmonic rhythm? Is this predefined, or can it be algorithmic?
 * Perhaps most importantly, so far this is only a melody. How can we generate an entire track using Markov chains? How can we generate an entire album?
 * Is any of this truly possible? From what I understand about the MIDI format, getting note duration may be easier said than done.
-
-I think I'll probably do the initial implementation in Python even though it'll be slow....
-
+<br />
+<br />
 ### TempleOS
 
 I need to take a brief moment, for some reason, and talk about TempleOS. I recently watched a documentary on it (google it), and beyond being personally fascinated by the pathos behind it, I was very intrigued by the algorithmic music generation that Terry Davis created. I have no plans to dive into the actual code he used to generate it, but it sounds like he did some clever tricks with repeating phrases to give them a more 'musical' quality. In the words of Adam Neely and many others, repetition legitimizes. So, even with musical phrases that some describe as 'uncanny', they can still satisfy some degree of musicality by having an overarching structure that includes an amount of repetition. This leads me to believe that incorporating the same concepts with Markov chain generation of the actual phrases may end well. I think having a degree of randomness in the structure will be important as well. Listening to a few of Terry's 'hymns' they do seem to have the same AABB structure as one another, though this may have represented his personal preference.
@@ -43,9 +42,8 @@ These, of course, will be entirely optional, and I'm imagining them as being gen
 * Never faster than the primary melody
 * Maybe lower pitched than the melody, but not by no more than an octave and often less. Perhaps using regressive algorithms?
 * Quieter than the melody, perhaps by a randomly variable amount
-
-More development is absolutely needed here.
-
+<br />
+<br />
 #### Orchestration
 
 I think there is a *lot* of opportunity for interesting things here. We can use the default general MIDI groupings of instruments for the most part, but I also like the idea of sending instrument changes somewhat frequently. Of course that also makes me wonder, how can we incorporate Markov chains? I'm almost entirely stumped here. Maybe I can scrape MIDI files for common instrument changes and then create a (somewhat flat) corpus based on that data. I would, however, absolutely like to map velocity data into a corpus. The trick with that is perhaps needing to do it in relation to note duration, or at a per-quarter note level to avoid completely random emphasis.
