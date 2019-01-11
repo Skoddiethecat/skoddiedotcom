@@ -1,4 +1,4 @@
-title: Blog
+title: blog
 menu-position: 1
 ---
  
