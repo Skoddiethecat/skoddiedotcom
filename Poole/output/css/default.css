@@ -242,8 +242,8 @@ code {
   step-end = animation-timing-function,
   infinite = animation-iteration-count
   */
-  -webkit-animation: blink 1.5s step-end infinite;
-  animation: blink 1.2s step-end infinite;
+  -webkit-animation: blink 0.86s step-end infinite;
+  animation: blink 0.86s step-end infinite;
 }
 
 @-webkit-keyframes blink {
