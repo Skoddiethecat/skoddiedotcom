@@ -1,13 +1,13 @@
 title: skoddiemusick
 menu-position: 2
 ---
-All albums are avilable at [http://skoddie.bandcamp.com](http://skoddie.bandcamp.com) unless otherwise noted.
+All albums are available at [http://skoddie.bandcamp.com](http://skoddie.bandcamp.com) unless otherwise noted.
 
 Live sets are detailed at [SkoddieLive](/skoddielive.html) and are available at [http://skoddielive.bandcamp.com](http://skoddie.bandcamp.com).
 
-Many (but not all) albums are availble on iTunes, Spotify, Amazon Music, etc. Simply search for "Skoddie".
+Many (but not all) albums are available on iTunes, Spotify, Amazon Music, etc. Simply search for "Skoddie".
 
-I also curate and contribute to challenge compilations for my Facebook group Electronic Music Philosophy on a six week cycle. These are available at [http://electronicmusicphilosophy.bandcamp.com](http://electronicmusicphilosophy.bandcamp.com)
+I also curate and contribute to challenge compilations for my Facebook group Electronic Music Philosophy on a six-week cycle. These are available at [http://electronicmusicphilosophy.bandcamp.com](http://electronicmusicphilosophy.bandcamp.com)
 <br />
 ___
 <br />
@@ -171,6 +171,32 @@ ___
             <br />
             <br />
             *This album is available at [Studio 4632](https://studio4632.bandcamp.com/album/technically-inaccurate) *
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>sinbeat​(\​]\​[​)​;<br />(November 2018)</h3>
+			<br />
+            ![sinbeat(\]\[);](/img/coverart/sinbeat2.png "sinbeat(][);")
+        </td>
+        <td height="300">
+            This album is the second set of experiments using ByteBeats to modulate sine waves. I expanded my code to run at 44.1khz and 16-bits, then experimented with modulating more parameters than I had on Sinebeat Equations. This album includes 8 equations running at a single sample rate, however in some cases the code is more complex than a simple ByteBeat.
+            <br />
+            <br />
+            The cover art was created by [A M K A D E](https://www.instagram.com/a_m_kade/) using bitmap renderings of the music.
+            <br />
+            <br />
+            *This album is available at [Bit Rot](https://bitrotlabel.bandcamp.com/album/sinbeat) *
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>DEEP FRIED SYNTH<br />(January 2019)</h3>
+			<br />
+            ![DEEP FRIED SYNTH](/img/coverart/deepfriedsynth.png "DEEP FRIED SYNTH")
+        </td>
+        <td height="300">
+            🍟
         </td>
     </tr>
 </table>

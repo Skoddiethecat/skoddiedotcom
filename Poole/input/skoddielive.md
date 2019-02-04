@@ -10,6 +10,16 @@ ___
 <table>
     <tr>
         <td height="300" width="300">
+            <h3><br />@ Noisebug<br />(January 5th, 2019)</h3>
+			<br />
+            ![@ Noisebug - 2019.01.05](/img/skoddielive/2019.01.05.png "@ Noisebug - 2019.01.05")
+        </td>
+        <td height="300" width="300">
+            A neat performance for a modular showcase at Noisebug in Pomona, CA. I was *extremely* pleased with how everything came off, and the set was strong enough that folks were walking in off the street to listen.
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
             <h3>Queer Toast, Techno Brunch<br />@ Left Coast<br />(December 9th, 2018)</h3>
 			<br />
             ![Queer Toast, Techno Brunch @ Left Coast - 2018.12.09](/img/skoddielive/2018.12.09.png "Queer Toast, Techno Brunch @ Left Coast - 2018.12.09")
