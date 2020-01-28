@@ -1,9 +1,8 @@
 title: catcorewave
 menu-position: 5
 ---
-# [catcorewave](https://www.catcorewave.com)
-
 ![catcorewave](/img/catcorewave.png "catcorewave")
+[visit catcorewave.com](https://www.catcorewave.com)
 
 catcorewave is an underground electronic music audio zine with no set release schedule. It is an attempt to portray my passion and love for the community of musicians I am surrounded by.
 
