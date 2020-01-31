@@ -199,6 +199,56 @@ ___
             🍟
         </td>
     </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Make Techno Queer Again: Vol. 2<br />(February 2019)</h3>
+			<br />
+            ![Make Techno Queer Again: Vol. 2](/img/coverart/maketechnoqueeragainvol2.png "Make Techno Queer Again: Vol. 2")
+        </td>
+        <td height="300">
+            The second in a series of studio techno sets recorded in a single take. This snapshot represented a maturity and deepening of my sound as it expanded to be a more expansive force. #maketechnoqueeragain
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Warm Leatherette<br />(March 2019)</h3>
+			<br />
+            ![Warm Leatherette](/img/coverart/warmleatherette.png "Warm Leatherette")
+        </td>
+        <td height="300">
+            A cover of the track by The Normal made famous by Grace Jones. This was released as a benefit to help cover the costs related to a serious car accident. Recorded in an attempt to get the trauma out of my system.
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Come to Daddy<br />(April 2019)</h3>
+			<br />
+            ![Come to Daddy](/img/coverart/cometodaddy.png "Come to Daddy")
+        </td>
+        <td height="300">
+            A cover of the Aphex Twin track. Released for free as a thank you to those who contributed to the Warm Leatherette benefit.
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Make Techno Queer Again: Vol. 3<br />(September 2019)</h3>
+			<br />
+            ![Make Techno Queer Again: Vol. 3](/img/coverart/maketechnoqueeragainvol3.png "Make Techno Queer Again: Vol. 3")
+        </td>
+        <td height="300">
+            The third in a series of studio techno sets recorded in a single take. This set came after a long bout of depression, and attempts to capture my struggle with it sonically. #maketechnoqueeragain
+        </td>
+    </tr>
+    <tr>
+        <td height="300" width="300">
+            <h3>Business Techno<br />(September 2019)</h3>
+			<br />
+            ![Business Techno](/img/coverart/businesstechno.png "Business Techno")
+        </td>
+        <td height="300">
+            A riff on the Business Techno meme, this EP is sort of a vaporwave/techno crossover. Harsh beats with cheesy computer sounds.
+        </td>
+    </tr>
 </table>
 </div>
 ___
