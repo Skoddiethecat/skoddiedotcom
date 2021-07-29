@@ -24,4 +24,11 @@ Skoddie's YouTube channel
 Skoddie's experimental project with Julien Palomo
 
 ### [Electronic Music Philosophy](https://electronicmusicphilosophy.bandcamp.com)
-The bandcamp for the Electronic Music Philosophy Facebook group featuring challenges curated and organized by Skoddie.{{ cursor() }}
+The bandcamp for the Electronic Music Philosophy Facebook group featuring challenges curated and organized by Skoddie.
+
+##Streaming Services
+
+### [Spotify](https://open.spotify.com/artist/5AelLrmEwOngsA8I74XmUq?si=-cO5QzNeSSGLMOT9xJhFRA&dl_branch=1)
+### [Apple Music](https://music.apple.com/us/artist/skoddie/956615501)
+### [Amazon](https://music.amazon.com/artists/B00T39S830/skoddie)
+{{ cursor() }}
