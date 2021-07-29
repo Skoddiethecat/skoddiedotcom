@@ -249,6 +249,76 @@ ___
             A riff on the Business Techno meme, this EP is sort of a vaporwave/techno crossover. Harsh beats with cheesy computer sounds.
         </td>
     </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>Femininity: An Expression Thereof<br />(March 2020)</h3>
+			<br />
+            ![Femininity: An Expression Thereof](/img/coverart/Femininity.png "Femininity: An Expression Thereof")
+        </td>
+        <td height="300">
+            A somewhat intirm techno release, this album features two refined studio recordings of patches used live in late 2019. The cover art was made before the content of the album was determined.
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>OBLIGATORY LOCKDOWN ALBUM<br />(May 2020)</h3>
+			<br />
+            ![OBLIGATORY LOCKDOWN ALBUM](/img/coverart/OBLIGATORY.png "OBLIGATORY LOCKDOWN ALBUM")
+        </td>
+        <td height="300">
+            This album was the result of the palpable anxiety caused by the early stages of the COVID-19 lockdown in 2020. I felt a lot of pressure to CREATE and PRODUCE while stuck in the house, and this is what came out. I've often described it as the goth gf of a sound bath.
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>Ciat Lonbarde Sessions<br />(June 2020)</h3>
+			<br />
+            ![Ciat Lonbarde Sessions](/img/coverart/ciat.png "Ciat Lonbarde Sessions")
+        </td>
+        <td height="300">
+            13 hours of recordings as I was getting myself familiar with my Plumbutter, Cocoquantus, and Sidrax Organ. I originally wasn't going to release this, but my bandmate urged me to (for his own gain), and the release has garnered quite a few fans as a result. The evolution in technique is clearly audible, and one of the tracks was used as raw material for a track on Cynthetic Delirium.
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>Cynthetic Delirium<br />(December 2020)</h3>
+			<br />
+            ![Cynthetic Delirium](/img/coverart/CyntheticDelirium.png "Cynthetic Delirium")
+        </td>
+        <td height="300">
+            A monumentous effort into creating industrial moon music. Featuring lyrics written by Lexx Saint Leonard, this album was released as a 3-Sider by Spider Baby Records. The first side was on a lathe cut record, and the second two were on compact cassette. This is deep, complex, contemplative music.
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>Are your hexagons aligned?<br />(April 2021)</h3>
+			<br />
+            ![Are your hexagons aligned?](/img/coverart/Hexagons.png "Are your hexagons aligned?")
+        </td>
+        <td height="300">
+            Deep, slow, ritualistic music. This is music to meditate to. This is music to unwind to. This was performed live with additional elements as THEE HEXAGON RITUAL, and both versions are designed to work their way into you and determine if your hexagons are aligned or misaligned.
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>The Reassuring Safety of Reciprocal Motion<br />(June 2021)</h3>
+			<br />
+            ![The Reassuring Safety of Reciprocal Motion](/img/coverart/hitachi.png "The Reassuring Safety of Reciprocal Motion")
+        </td>
+        <td height="300">
+            This record was created by attaching a magnetic telephone pickup to a Hitachi Magic Wand, while the wand was in use. This is drone/harsh noise music designed to convey a place where I feel safer than almost any other.
+        </td>
+    </tr>
+        <tr>
+        <td height="300" width="300">
+            <h3>Make Techno Queer Again: Vol. 4<br />(June 2021)</h3>
+			<br />
+            ![Make Techno Queer Again: Vol. 4](/img/coverart/MTQA4.png "Make Techno Queer Again: Vol. 4")
+        </td>
+        <td height="300">
+            My first techno record where the drums weren't handled by a modular synth, and the results are extremely clear. Modular synths were still used, but a number of recorded samples, as well as sharply mixed drums bring this record to the next level. Vol. 4 represents a serious shift in style, and the successful realization of a sound I had been trying to cultivate for quite some time.
+        </td>
+    </tr>
 </table>
 </div>
 ___
