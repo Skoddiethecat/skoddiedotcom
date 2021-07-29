@@ -5,6 +5,9 @@ menu-position: 5
 ### [Latest Release](https://skoddie.bandcamp.com/album/make-techno-queer-again-vol-4)
 Make Techno Queer Again: Vol. 4
 
+### [Merch!](https://skoddie.threadless.com)
+T-shirts, tapestries, skateboards, AND MORE!
+
 ### [Altair Audio Engineering](https://altairaudioengineering.com)
 Record label run by Skoddie Autumn Kraemer Altair
 
