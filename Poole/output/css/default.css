@@ -93,6 +93,14 @@ img{
 	height: auto;
 }
 
+.skoddiemusickguide table{
+    width: 100%;
+}
+
+.skoddiemusickguide td:first-child {
+    width: 300px;
+}
+
 /*.skoddiemusickguide table, th, td{
 	border: 1px solid black;
 }*/
