@@ -2,8 +2,8 @@ title: linktree
 menu-position: 5
 ---
 <br />
-### [Latest Release](https://skoddie.bandcamp.com/album/make-techno-queer-again-vol-4)
-Make Techno Queer Again: Vol. 4
+### [Latest Release](https://altairaudioengineering.bandcamp.com/album/echoes-on-stone-walls)
+Autumn Altair - Echoes on Stone Walls
 
 ### [Merch!](https://skoddie.threadless.com)
 T-shirts, tapestries, skateboards, AND MORE!
