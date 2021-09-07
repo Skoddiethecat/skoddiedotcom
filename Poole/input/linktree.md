@@ -2,8 +2,8 @@ title: linktree
 menu-position: 5
 ---
 <br />
-### [Latest Release](https://altairaudioengineering.bandcamp.com/album/echoes-on-stone-walls)
-Autumn Altair - Echoes on Stone Walls
+### [Latest Release](https://skoddie.bandcamp.com/album/piet)
+Skoddie - Piet
 
 ### [Merch!](https://skoddie.threadless.com)
 T-shirts, tapestries, skateboards, AND MORE!
