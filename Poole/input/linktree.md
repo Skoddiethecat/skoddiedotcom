@@ -2,8 +2,8 @@ title: linktree
 menu-position: 5
 ---
 <br />
-### [Latest Release](https://skoddie.bandcamp.com/album/plumb-rod)
-Skoddie - Plumb & Rod
+### [Latest Release](https://altairaudioengineering.bandcamp.com/album/voi-id)
+Skoddie - Voiïid
 
 ### [Merch!](https://skoddie.threadless.com)
 T-shirts, tapestries, skateboards, AND MORE!
